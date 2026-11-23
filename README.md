@@ -1,4 +1,4 @@
-# Net Revenue Management Analysis — Shampoo Category
+# Net Revenue Management Analysis
 
 Market, portfolio, promotion, and new-launch analysis for a shampoo/hair-care business, built to give a single, fact-based view of market position, SKU profitability, promotion ROI, and a 2024 net sales forecast.
 
